@@ -1,0 +1,26 @@
+UF,Regiao,Etnia,Situacao_Domicilio,Populacao_Indigena,Rendimento_Medio,Taxa_Alfabetizacao,Tempo_Deslocamento
+AM,Norte,Tikúna,Rural,35000,1200,78.5,45
+AM,Norte,Yanomami,Rural,27000,1100,62.0,50
+RR,Norte,Yanomami,Rural,25000,1150,60.0,55
+MS,Centro-Oeste,Guarani Kaiowá,Rural,45000,1500,81.0,38
+BA,Nordeste,Pataxó,Rural,12000,1550,83.0,32
+SP,Sudeste,Guarani,Urbana,9500,2400,96.5,20
+CE,Nordeste,Tuxá,Urbana,8000,1600,79.0,28
+PR,Sul,Kaingang,Rural,19000,2100,88.0,40
+PA,Norte,Kayapó,Rural,31000,1300,75.0,42
+SC,Sul,Xokleng,Urbana,11000,2200,94.0,25
+MT,Centro-Oeste,Xavante,Rural,16000,1400,76.0,35
+AP,Norte,Wajãpi,Rural,11000,1050,58.0,60
+RO,Norte,Paiter Suruí,Rural,8500,1250,70.0,48
+MA,Nordeste,Guajajara,Rural,24000,1350,74.0,36
+PE,Nordeste,Pankararu,Urbana,9200,1700,85.0,22
+RS,Sul,Mbyá Guarani,Rural,7800,1900,89.0,33
+MG,Sudeste,Krenak,Rural,8200,1850,91.0,26
+TO,Norte,Krahô,Rural,9400,1200,72.0,44
+AC,Norte,Ashaninka,Rural,7200,1150,65.0,52
+MS,Centro-Oeste,Terena,Urbana,14000,1800,87.0,24
+AM,Norte,Sateré-Mawé,Rural,15000,1280,73.0,40
+PA,Norte,Munduruku,Rural,18500,1320,71.0,41
+SP,Sudeste,Terena,Urbana,6200,2500,97.0,18
+RJ,Sudeste,Pataxó,Urbana,3800,2300,95.0,21
+BA,Nordeste,Tupinambá,Rural,14500,1480,80.0,30
